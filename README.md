@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @nodd2000
-- 👀 I’m interested in fintech
-- 🌱 I’m currently learning react, django, flask, pandas
-- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me: tg - @maksimovv
 
 <!---
